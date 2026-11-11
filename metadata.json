@@ -1,0 +1,6 @@
+{
+  "name": "موزع كروت الواي فاي",
+  "description": "تطبيق متكامل لموزع كروت شبكات الواي فاي: تسليم الكروت للبقالات، إصدار فواتير واتساب، متابعة الديون ومواعيد التوزيع، ومطابقة عهدة الحقيبة والصندوق اليومي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
